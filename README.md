@@ -2,5 +2,9 @@
 
 ## Overview
 
-In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
-./Screenshot Inventory.png
+This app is a digital storefront. 
+
+The app will display the products in the stores inventory and then prompt users to buy products.
+
+The app will take in orders from customers and deplete stock from the store's inventory. 
+
